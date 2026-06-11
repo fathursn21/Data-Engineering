@@ -106,6 +106,6 @@ Dataset bersih digunakan untuk membangun model prediksi tingkat kerusakan menggu
 - **Link Projek:** 
   - ETL Pipeline: [https://colab.research.google.com/drive/1_7lkgpdF1Oql-R47ZcSdVDR4V-Nv1kcV?usp=sharing](https://colab.research.google.com/drive/1_7lkgpdF1Oql-R47ZcSdVDR4V-Nv1kcV?usp=sharing)
   - Machine Learning: [https://colab.research.google.com/drive/1fnqa18_cpDdnY7cOgK7RKvY2bCNlcQ_o?usp=sharing](https://colab.research.google.com/drive/1fnqa18_cpDdnY7cOgK7RKvY2bCNlcQ_o?usp=sharing)
-  - Looker : 
+  - Looker : https://datastudio.google.com/u/0/reporting/efd8c0a2-f3e1-4506-aaf3-8b22bc32a56a/page/5sG0F
 
 ---

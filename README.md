@@ -88,7 +88,7 @@ Dataset bersih digunakan untuk membangun model prediksi tingkat kerusakan menggu
 
 - **Tools yang Digunakan:**  
   - Python 3.x
-  - Library: `pandas`, `numpy`, `sqlalchemy`, `pymysql`, `folium`, `sklearn`, `scipy`
+  - Library: `pandas`, `numpy`, `sqlalchemy`, `pymysql`, `folium`, `sklearn`
   - Platform: Google Colab
 
 ---

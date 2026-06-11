@@ -61,7 +61,7 @@ Dataset bersih digunakan untuk membangun model prediksi tingkat kerusakan menggu
 
 
 - **Transformasi:**  
-  - : Menggabungkan tiga dataset `Gempa`, `Kerusakan Bencana`, dan `Koordinat Pusat Kabupaten` menjadi satu dataframe menggunakan `pd.merge()` berdasarkan `ID Kabupaten` dan `tanggal`
+  - Menggabungkan tiga dataset `Gempa`, `Kerusakan Bencana`, dan `Koordinat Pusat Kabupaten` menjadi satu dataframe menggunakan `pd.merge()` berdasarkan `ID Kabupaten` dan `tanggal`
   - Menghitung `jarak_ke_kabupaten_km` menggunakan rumus Haversine untuk mengukur jarak spasial antara titik episenter gempa dengan titik pusat koordinat kabupaten sebagai prediktor utama tingkat kerusakan
   - Menerapkan teknik Oversampling dengan penambahan distribusi normal untuk memperluas variasi dataset latihan, guna mengatasi keterbatasan data historis yang tersedia dan meningkatkan kemampuan generalisasi model Random Forest
 

@@ -1,6 +1,5 @@
 # DATA ENGINEERING  
-# Proyek : Pengaruh Bahan Material Bangunan Terhadap Tingkat kerusakan Rumah Pasca Gempa Bumi di Indonesia
-
+# Proyek : Prediksi Tingkat Kerusakan Bangunan Pasca Gempa Berdasarkan Tingkat Magnitudo, Kedalaman, dan Jarak Titik Pusat Gempa Bumi Di Indonesia
 ---
 
 ## Kontributor
